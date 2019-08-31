@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JMCh02Exer/JMCh02Exer.iml" filepath="$PROJECT_DIR$/JMCh02Exer/JMCh02Exer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/genetic-algorithm-demo.iml" filepath="$PROJECT_DIR$/genetic-algorithm-demo.iml" />
+    </modules>
+  </component>
+</project>
